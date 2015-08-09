@@ -1,0 +1,15 @@
+Config:
+   prefix: '&6[&bClans&6]'
+   prefixClan: '&6[&bClan-Chat&6]'
+   rl: '&cConfig erfolgreich neu geladen.'
+   noperm: '&4DU hast dazu keine Berechtigung'
+   noclan: '&cDu besitzt keinen Clan.'
+   remclan: '&cClan erfolgreich gelöscht.'
+   crclan: '&cClan erfolgreich erstellt.'
+   notyourclan: '&cDies ist nicht dein Clan.'
+   joinedclan: '&bDu bist dem Clan beigetreten.'
+   claninv1: '&dDu wurdest eingeladen, den Clan '
+   claninv2: '&dbeizutreten.'
+   chatprefix: '#'
+   
+   

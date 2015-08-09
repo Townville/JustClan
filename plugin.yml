@@ -1,0 +1,11 @@
+name: Clan
+version: 1.0
+author: LoganBwDE
+main: me.loganbwde.Clan.main
+commands:
+     clan:
+          description: Main Command
+          usage: </command> <args>
+     clreload:
+          description: Reloads the config
+          usage: </command>
